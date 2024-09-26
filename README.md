@@ -7,9 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviamkt/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcdflavia@gmail.com?subject=Oi,%20te%20encontrei%20no%20GitHub!)
 
-**</> MarTech | Full Stack Development | UX/UI Design**
+### **Full Stack Developer | Soluções Criativas**
 
-Transição de carreira, unindo criatividade e tecnologia. Com experiência de mais de 4 anos em **Marketing**, atualmente cursando **Desenvolvimento Full Stack** para criar soluções que combinam **design** e **tecnologia**.
+Com mais de 4 anos de experiência em marketing estratégico, hoje aplico minhas habilidades em desenvolvimento Full Stack para criar soluções que conectam tecnologia e inovação. Minha paixão está em transformar ideias em produtos digitais eficientes, sempre unindo funcionalidade, design e estratégia.
 
 <br/>
 
@@ -24,14 +24,12 @@ Transição de carreira, unindo criatividade e tecnologia. Com experiência de m
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### O que eu faço:
-- Desenvolvimento de soluções digitais com foco em **MarTech**.
+- Desenvolvimento de soluções digitais completas, conectando tecnologia, design e estratégia.
 - **Front-end** e **back-end** com uma abordagem criativa e técnica.
-- Integração de **dados**, **automação** e **experiência do usuário**.
 
 ### Habilidades:
 - **Desenvolvimento Web:** Full Stack (React, JavaScript, HTML5, CSS3, Python)
 - **Back-end e Banco de Dados:** Integrações e soluções com APIs, NoSQL e SQL.
-- **Automação e CRM:** Experiência em automação de campanhas e integração de dados.
 - **Ferramentas de Design:** Adobe Suite, Figma, CapCut e Canva.
 - **Marketing Digital:** SEO, UX/UI, CRO, Gestão de Tráfego Pago e Estratégia.
 
